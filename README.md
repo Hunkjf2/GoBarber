@@ -1,5 +1,7 @@
 # GoBarber
-NodeJS, ReactJS
+NodeJS
+
+A barber shop management application, the proportional best productivity for establishments.
 
 Install Package
 
